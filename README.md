@@ -11,7 +11,7 @@ $ node index.js # without any args
 ```
 
 ```sh
-$ node index.js 99.99 98.12 99.9999 # with any args
+$ node index.js 99.99 98.12 99.9999 # with some args
 ```
 
 ## Sample command output and usage
