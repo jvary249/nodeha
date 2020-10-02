@@ -1,0 +1,14 @@
+{
+  "name": "nodeha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varun Jalandery <varun.jalandery@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "pretty-ms": "^7.0.1"
+  }
+}
