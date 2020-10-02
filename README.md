@@ -8,4 +8,4 @@ $ npm install
 To run the command
 ```sh
 $ node index.js
-``
+```
